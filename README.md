@@ -53,7 +53,7 @@
      </tr>
      <tr>
        <td align="center">02</td>
-       <td align="center">so_long</td>
+       <td align="center"><a href="https://github.com/duhanayan/so_long">so_long</a></td>
        <td align="center">⭕</td>
        <td align="center">?</td>
      </tr>
